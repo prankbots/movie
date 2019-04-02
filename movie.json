@@ -1,0 +1,84 @@
+{
+  "movie": {
+    "type": "template",
+    "altText": "berak di celana",
+      "template": {
+      "type": "image_carousel",
+      "columns": [
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3P8YN20ibHed1VLREQRtcQnQtiYd1piiCjoK-E9ukB2Ugx4sr",
+          "layout": "horizontal",
+          "action": {
+            "type": "uri",
+            "label": "PLAY NOW",
+            "uri": "http://stomp.tk/archive/BIOS/Rampage-2018.mp4",
+            "area": {
+              "x": 447,
+              "y": 356,
+              "width": 1040,
+              "height": 1040
+            }
+          }
+        },
+        {
+          "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h40/hed/12107450089502.jpg",
+          "layout": "horizontal",
+          "action": {
+            "type": "uri",
+            "label": "PLAY NOW",
+            "uri": "http://stomp.tk/archive/BIOS/Avengers-Infinity-War-2018.mp4",
+            "area": {
+              "x": 447,
+              "y": 356,
+              "width": 1040,
+              "height": 1040
+            }
+          }
+        },
+        {
+          "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVvvtj6rMsfUyhz9jRNct3XCYqE_AYLKBbtoK0Hb3yPSBffCNiVWiedbCkbg",
+          "layout": "horizontal",
+          "action": {
+            "type": "uri",
+            "label": "PLAY NOW",
+            "uri": "http://stomp.tk/archive/BIOS/Venom-2018.mp4",
+            "area": {
+              "x": 447,
+              "y": 356,
+              "width": 1040,
+              "height": 1040
+            }
+          },
+          {
+          "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVvvtj6rMsfUyhz9jRNct3XCYqE_AYLKBbtoK0Hb3yPSBffCNiVWiedbCkbg",
+          "layout": "horizontal",
+          "action": {
+            "type": "uri",
+            "label": "PLAY NOW",
+            "uri": "http://stomp.tk/archive/BIOS/Venom-2018.mp4",
+            "area": {
+              "x": 447,
+              "y": 356,
+              "width": 1040,
+              "height": 1040
+            }
+          },
+          {
+          "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVvvtj6rMsfUyhz9jRNct3XCYqE_AYLKBbtoK0Hb3yPSBffCNiVWiedbCkbg",
+          "layout": "horizontal",
+          "action": {
+            "type": "uri",
+            "label": "PLAY NOW",
+            "uri": "http://stomp.tk/archive/BIOS/Venom-2018.mp4",
+            "area": {
+              "x": 447,
+              "y": 356,
+              "width": 1040,
+              "height": 1040
+            }
+          }
+        }
+      ]
+    }
+  }
+}
