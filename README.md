@@ -3,7 +3,7 @@ PEMBUATAN DAN CARA PEMAKAIAN SAMA.
 INI HANYA PENGIRIMAN TEMPLATE MODEL FLEX
 OK..
 CEK VODEONYA DI CHANNEL PRANKBOTS
-ATAU KUNJUNGI SITUS WEBNYA DISINI
-# [WEBSITE](https://prankbot.blogspot.com/2019/03/template-bot-line.html?m=1)
-OK NANTI LU COBA AJE YE
-
+ATAU KUNJUNGI SITUS WEBNYA [DISINI](https://prankbot.blogspot.com/2019/03/template-bot-line.html?m=1)
+TUTORIAL PEMBUATAN FLEX MOVIE [DISINI](https://github.com/prankbots/final)
+# [LIBS](https://github.com/prankbots/final)
+INI AMBIL LIBSNYA
