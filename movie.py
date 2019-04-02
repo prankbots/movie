@@ -6,9 +6,6 @@ from thrift.TMultiplexedProcessor import *
 from thrift.TSerialization import *
 from thrift.TRecursive import *
 from thrift.protocol import TCompactProtocol
-from thrift.transport import THttpClient
-from akad.ttypes import LoginRequest
-from akad import LineService
 from thrift import transport, protocol, server
 from multiprocessing import Pool, Process
 from akad.ttypes import ContentType as Type
@@ -78,6 +75,10 @@ def template(op):
             Pbot == Comt(text)
             if Pbot = "movie":
               me.sendFlex(to, mengirim["movie"])
+  except Exception as e:
+    print(e)
+    if op.type == 59:
+      print(op)
 while True:
   try:
     ops=oepoll.singleTrace(count=50)
