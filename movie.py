@@ -60,7 +60,7 @@ def template(op):
             to = self._from
           else:
             to = self.to
-        elif msg.toType == 1:
+        elif self.toType == 1:
           to = self.to
         elif self.toType == 2:
           to = self.to
