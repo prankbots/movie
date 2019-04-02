@@ -75,7 +75,7 @@ def template(op):
           if text is None:
             return
           else:
-            Pbot = Comt(text)
+            Pbot == Comt(text)
             if Pbot = "movie":
               me.sendFlex(to, mengirim["movie"])
 while True:
