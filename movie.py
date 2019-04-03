@@ -7,15 +7,13 @@ from thrift.TSerialization import *
 from thrift.TRecursive import *
 from thrift.protocol import TCompactProtocol
 from thrift import transport, protocol, server
-from multiprocessing import Pool, Process
-from akad.ttypes import ContentType as Type
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess,asyncio
 from datetime import datetime, timedelta
 from time import sleep
 from bs4 import BeautifulSoup
 from humanfriendly import format_timespan, format_size, format_number, format_length
-import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, pytz, urllib, urllib.parse,youtube_dl,pafy,timeit,atexit,traceback,ffmpy,humanize
+import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, urllib, urllib.parse,youtube_dl,pafy,timeit,atexit,traceback,ffmpy,humanize
 _session = requests.session()
 botStart = time.time()
 movieOp = codecs.open("movie.json","r","utf-8")
